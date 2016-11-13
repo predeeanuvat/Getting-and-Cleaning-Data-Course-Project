@@ -1,4 +1,4 @@
-Intructions on running R script:
+Instructions on running R script:
 
 The R script is uploaded as the file "run_analysis.R"
 
