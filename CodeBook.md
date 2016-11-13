@@ -24,10 +24,8 @@ Below is a stepwise description of the process:
 
 8 Replaced the 1-6 labels of the Activity column with descriptions of the actual activities.
 
-9 Save down the tidy data set to the file: "total_data.txt"
+9 Extract only the variables that contain the measurements on the mean ("data_mean") and standard deviation ("data_std").
 
-10 Extract only the variables that contain the measurements on the mean and standard deviation and save the files as "data_mean.txt" and "data_std.txt".
+10 Group the data set by activity and subject
 
-11 Group the data set by activity and subject
-
-12 Create two new separate tidy data sets. One data set for the average of each variable grouped by each activity and the second data set for the average of each variable grouped by each subject.
+11 Create two new separate tidy data sets. One data set for the average of each variable grouped by each activity called "by-activity_mean" and the second data set for the average of each variable grouped by each subject called "by_subject_mean".
